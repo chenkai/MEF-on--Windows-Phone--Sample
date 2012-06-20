@@ -1,7 +1,0 @@
-F:\Personal Open Souce Demo\Managed Extensibility Framework\Demo\MEFSampleDemo\MEFCommon.Data\Bin\Debug\MEFCommon.Data.dll
-F:\Personal Open Souce Demo\Managed Extensibility Framework\Demo\MEFSampleDemo\MEFCommon.Data\Bin\Debug\MEFCommon.Data.pdb
-F:\Personal Open Souce Demo\Managed Extensibility Framework\Demo\MEFSampleDemo\MEFCommon.Data\Bin\Debug\System.ComponentModel.Composition.dll
-F:\Personal Open Souce Demo\Managed Extensibility Framework\Demo\MEFSampleDemo\MEFCommon.Data\Bin\Debug\System.ComponentModel.Composition.Initialization.dll
-F:\Personal Open Souce Demo\Managed Extensibility Framework\Demo\MEFSampleDemo\MEFCommon.Data\obj\Debug\ResolveAssemblyReference.cache
-F:\Personal Open Souce Demo\Managed Extensibility Framework\Demo\MEFSampleDemo\MEFCommon.Data\obj\Debug\MEFCommon.Data.dll
-F:\Personal Open Souce Demo\Managed Extensibility Framework\Demo\MEFSampleDemo\MEFCommon.Data\obj\Debug\MEFCommon.Data.pdb

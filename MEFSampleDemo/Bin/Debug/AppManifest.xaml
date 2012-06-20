@@ -1,8 +1,0 @@
-﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="MEFSampleDemo" EntryPointType="MEFSampleDemo.App" RuntimeVersion="4.7.50308.0">
-  <Deployment.Parts>
-    <AssemblyPart x:Name="MEFSampleDemo" Source="MEFSampleDemo.dll" />
-    <AssemblyPart x:Name="MEFCommon.Data" Source="MEFCommon.Data.dll" />
-    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
-    <AssemblyPart x:Name="System.ComponentModel.Composition.Initialization" Source="System.ComponentModel.Composition.Initialization.dll" />
-  </Deployment.Parts>
-</Deployment>
